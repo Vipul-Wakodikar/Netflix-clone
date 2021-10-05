@@ -18,7 +18,7 @@ through out corporate offices.
 Instructions:
 
 most of the links in the Navigation bar will direct to a content within index.html
-on the home screen please enter your email address and click on sign in it will direct to sign in page 
+on the home screen please enter your email address and click on Get Started it will direct to sign in page 
 create an account to proceed further.
 red button used in this project are not made responsive 
 some links are taken directly from netflix website 
