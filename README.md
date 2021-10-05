@@ -4,7 +4,7 @@ Organization: Newton School
 Mentor:  Kalanithi Sethuraman
 Author: Vipul Wakodikar
 Batch: Falcon
-Web Url: https://amazing-cori-17c5a9.netlify.app/
+Web Url: https://thirsty-kalam-db1656.netlify.app/
 
 Introduction:
 
