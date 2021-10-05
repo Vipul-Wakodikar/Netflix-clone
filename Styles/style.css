@@ -121,7 +121,7 @@
 	header{
 		position: absolute;
 		z-index:10;
-		margin-top:-22px;
+		margin-top: -119px;
 	}
 	.headrightmargin{
 		margin-left: 900px;
@@ -174,7 +174,7 @@
 	.collapsible:after {
 	  content: "+";
 	  color: white;
-	  font-weight: bold;
+	  /*font-weight: bold;*/
 	  float: right;
 	  margin-left: 5px;
 	  font-size: 40px;
@@ -182,6 +182,7 @@
 	
 	.active:after {
 	  content: "x";
+	  font-weight: 0;
 	}
 
 	.gaps{
@@ -195,7 +196,7 @@
 		width: 500px;
 		height: 69px;
 		padding: 9px;
-		border: none;
+		border: 1px solid #ccc;
 		margin:0px;
 	}
 

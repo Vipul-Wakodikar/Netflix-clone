@@ -1,0 +1,42 @@
+.content2{
+    position: inherit;
+    color: black;
+    z-index: 10;
+    font-weight: 500;
+    justify-content: flex;
+    font-size: 30px;
+    align-items: center;
+    text-align: center;
+    margin-top: 116px;
+    padding-top: 50px;
+}
+.content3{
+    position: inherit;
+    color: black;
+    z-index: 10;
+    font-weight: 100;
+    font-size: 20px;
+    align-items: center;
+    text-align: center;
+    margin-top: 30px;
+    padding-top: 10px;
+}
+.btnstyle3{
+	background-color: rgb(230,0,0);
+	color: white;
+	border: none;
+	margin:0px;
+	font-size: 21px;
+	padding: 19px;
+    width:500px;
+}
+.btnstyle3:hover{
+	background-color: red;
+}	
+body{
+	background-color: white;
+	color: black
+}
+.some-space{
+    padding: 30px;
+}

@@ -36,9 +36,12 @@
 				<p class = "hindix2">Ready to watch? Enter your email to create or restart your membership.</p>
 				
 			</div>
+
 		</div>
 		<div class = "text-cover2">
-			<input class = "form-width" placeholder= "Email address" required> </input><button class = "btnstyle2">Get Started ></button>
+			<form action="signin.html" method="POST">
+				<input class = "form-width" id="email" name="email" placeholder= "Email address" required> </input><button class = "btnstyle2" onclick="handleSubmit()">Get Started ></button>
+			</form>
 		</div>
 		<div id ="colorstrip"></div>
 		<!--CONTENT-------------------------------------------->
